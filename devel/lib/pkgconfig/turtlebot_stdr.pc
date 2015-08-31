@@ -1,0 +1,8 @@
+prefix=/home/osboxes/catkin_ws/devel
+
+Name: turtlebot_stdr
+Description: Description of turtlebot_stdr
+Version: 2.2.1
+Cflags: 
+Libs: -L/home/osboxes/catkin_ws/devel/lib 
+Requires: 

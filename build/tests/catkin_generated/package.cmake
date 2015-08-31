@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "tests")
+set(tests_MAINTAINER "osboxes <osboxes@todo.todo>")
+set(tests_DEPRECATED "")
+set(tests_VERSION "0.0.0")
+set(tests_BUILD_DEPENDS "geometry_msgs" "roscpp" "rospy")
+set(tests_RUN_DEPENDS "geometry_msgs" "roscpp" "rospy")
+set(tests_BUILDTOOL_DEPENDS "catkin")
